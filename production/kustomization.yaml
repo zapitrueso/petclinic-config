@@ -1,0 +1,6 @@
+bases:
+- ../base
+
+images:
+- name: quay.io/dsanchor/quarkus-petclinic
+  newTag: 1.0.0
